@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá, Tudo bem?👋</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">Sou o Johnny, recém-formado em Sistema de Informação, aspirante a desenvolvedor de software</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Em transição de carreira<br>📚 Estou iniciando os primeiros passos em programação<br>🎯 Meta: Ter o máximo de conhecimento para ajudar outras pessoas<br>🎲 Curiosidade: Gosto de música, Video Game, Toco Violão e tenho como hobby jogar futebol</p>
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Aprendendo a codar com:</h2>
 
 ###
 
