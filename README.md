@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Em transição de carreira<br>📚 Estou iniciando os primeiros passos em programação<br>🎯 Meta: Ter o máximo de conhecimento para ajudar outras pessoas<br>🎲 Curiosidade: Gosto de música, Video Game, Toco Violão e tenho como hobby jogar futebol</p>
+<p align="left">✨ Em transição de carreira<br>📚 Estou iniciando os primeiros passos em programação<br>🎯 Meta: Ter o máximo de conhecimento para ajudar outras pessoas<br>🎲 Curiosidade: Gosto de música, Video Game, Toco Violão/Guitarra/Baixo e tenho como hobby jogar futebol</p>
 
 ###
 
