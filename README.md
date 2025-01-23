@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou o Johnny, recém-formado em Sistema de Informação, aspirante a desenvolvedor de software</p>
+<p align="left">Sou o Johnny, recém-formado em Sistema de Informação, aspirante a desenvolvedor WEB</p>
 
 ###
 
