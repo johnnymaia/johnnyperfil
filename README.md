@@ -11,7 +11,9 @@
 
 ###
 
-<p align="left">✨ Em transição de carreira<br>📚 Estou iniciando os primeiros passos em programação<br>🎯 Meta: Ter o máximo de conhecimento para ajudar outras pessoas<br>🎲 Curiosidade: Gosto de música, Video Game, Toco Violão/Guitarra/Baixo e tenho como hobby jogar futebol</p>
+<p align="left">✨ Em transição de carreira<br>💡 Explorador de Tecnologia – Sempre aprendendo algo novo e desvendando códigos.<br>🖥️ Aspirante a Dev – Dando os primeiros passos no mundo da programação.<br>🤝 Colaborador – Acredita no poder do conhecimento compartilhado.<br>🎼 Músico de Alma – Cordas, ritmos e melodias fazem parte do dia a dia.<br>⚽ Jogador de Finais de Semana – Sempre pronto para uma partida.<br>🎮 Gamer Casual – Explorando mundos virtuais nos momentos livres.</p>
+
+###
 
 ###
 
